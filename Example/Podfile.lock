@@ -1,0 +1,16 @@
+PODS:
+  - TMNetworkLib (0.1.0)
+
+DEPENDENCIES:
+  - TMNetworkLib (from `../`)
+
+EXTERNAL SOURCES:
+  TMNetworkLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TMNetworkLib: 333c261283fdbb9a35e21b77f978f22e8ce1b1bc
+
+PODFILE CHECKSUM: 9ac1783578b0dff32d10692b6c6893850f47aeb3
+
+COCOAPODS: 1.7.1
