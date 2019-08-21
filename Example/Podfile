@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'TMNetworkLib_Example' do
+  pod 'TMNetworkLib', :path => '../'
+
+  target 'TMNetworkLib_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
